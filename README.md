@@ -10,3 +10,6 @@
 ## Appendix B.3 GIF for visualising the expansion of the layer and activation of filters.
  ![Appendix B.3](https://github.com/YunjieZhu/Extensible-Convolutional-Layer-git-version/blob/main/plots/feature_map_plots/feature_map.gif) <br />
  The visualised mappings are in the first row, with each filter having a different colour.
+
+# Notes
+ Update to be included to improve and resolve problems with experiment part of this version
